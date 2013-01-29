@@ -1,3 +1,7 @@
 proxy
 filename
 content.txt
+testCheck
+testCheck.c
+testRealloc
+testRealloc.c
